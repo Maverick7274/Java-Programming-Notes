@@ -1,0 +1,40 @@
+# Compiled source #
+###################
+*.class
+
+# Package Files #
+#################
+*.jar
+*.war
+*.ear
+
+# IDE Files #
+#############
+.idea/
+.vscode/
+*.iml
+
+# Build output #
+################
+/build/
+/bin/
+/out/
+
+# Dependency Directories #
+##########################
+/lib/
+
+# Logs and Reports #
+####################
+/logs/
+/report/
+
+# OS Files #
+############
+.DS_Store
+Thumbs.db
+
+# Miscellaneous #
+#################
+*.tmp
+*.log

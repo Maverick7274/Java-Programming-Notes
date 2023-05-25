@@ -46,9 +46,7 @@
 | throw        | Used to throw an exception.                                                                      |
 | throws       | Used to declare the exceptions that a method may throw.                                           |
 | transient    | Indicates that a variable should not be serialized.                                               |
-| try
-
-          | Used to start a try-catch block.                                                                 |
+| try | Used to start a try-catch block.|
 | void         | Indicates that a method does not return a value.                                                  |
 | volatile     | Indicates that a variable may be modified by multiple threads.                                    |
 | while        | Used to start a while loop.                                                                      |
